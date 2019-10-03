@@ -4,7 +4,7 @@ CFLAGS = -c -Wall
 all: run
 
 run: actions.o true_conf.o
-	$(CC) actions.cpp true_conf.o -o run
+	$(CC) actions.o true_conf.o -o run
 
 actions.o: actions.cpp
 	$(CC) $(CFLAGS) actions.cpp -o actions.o
