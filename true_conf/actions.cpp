@@ -1,4 +1,3 @@
-#include "stdafx.h"
 #include "actions.h"
 
 void FillVectorAndMap(vector<int>& v, map<int, int>& m)

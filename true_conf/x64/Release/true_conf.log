@@ -1,8 +1,0 @@
-﻿  stdafx.cpp
-  actions.cpp
-  true_conf.cpp
-true_conf.cpp(6): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Создание кода
-  All 211 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Создание кода завершено
-  true_conf.vcxproj -> D:\cppProjects\repos\Task_TrueConf\true_conf\x64\Release\true_conf.exe
